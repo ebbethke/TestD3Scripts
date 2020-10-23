@@ -4,7 +4,6 @@ This python script sets up and runs a lightweight, threaded selenium browser ses
 # Modules used/required to run
 This tool was developed with Anaconda python 3.7, utilizing the following modules:
 * http.server 
-* selenium import webdriver
 * socketserver
 * threading
 * os
