@@ -30,10 +30,10 @@ A full valid call might look like:
 
 You can also pass ```-h``` to print a simple help statement.
 
-The script is setup to use selenium's Firefox drivers.  For more information about different python selenium webdrivers, see: (https://selenium-python.readthedocs.io/installation.html#drivers)[Selenium Python Web Drivers] 
+The script is setup to use selenium's Firefox drivers.  For more information about different python selenium webdrivers, see: [Selenium Python Web Drivers](https://selenium-python.readthedocs.io/installation.html#drivers)
 
 ## From Anaconda env
-To run this from the provided anaconda environment, install the ```meta.yml``` env as above.  More info on anaconda envs here: (https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)[Anaconda: Managing Environments]  
+To run this from the provided anaconda environment, install the ```meta.yml``` env as above.  More info on anaconda envs here: [Anaconda: Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)  
 
 To activate, from the anaconda prompt or similar call:
 ```conda activate meta```
